@@ -1,0 +1,73 @@
+[{
+        "id": 1,
+        "name": "Doro Wot",
+        "category": "Ethiopian",
+        "price": 450,
+        "spicy": true,
+        "description": "Traditional Ethiopian chicken stew served with injera.",
+        "image": "https://images.unsplash.com/photo-1547592180-85f173990554"
+    },
+    {
+        "id": 2,
+        "name": "Tibs",
+        "category": "Ethiopian",
+        "price": 520,
+        "spicy": true,
+        "description": "Tender beef pieces cooked with onion, tomato and Ethiopian spices.",
+        "image": "https://images.unsplash.com/photo-1544025162-d76694265947"
+    },
+    {
+        "id": 3,
+        "name": "Vegetable Pizza",
+        "category": "Pizza",
+        "price": 380,
+        "spicy": false,
+        "description": "Fresh vegetable pizza with mozzarella cheese.",
+        "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"
+    },
+    {
+        "id": 4,
+        "name": "Classic Burger",
+        "category": "Burgers",
+        "price": 350,
+        "spicy": false,
+        "description": "Beef burger with lettuce, tomato, cheese and special sauce.",
+        "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"
+    },
+    {
+        "id": 5,
+        "name": "Kitfo",
+        "category": "Ethiopian",
+        "price": 600,
+        "spicy": true,
+        "description": "Traditional Ethiopian minced beef dish seasoned with mitmita.",
+        "image": "https://images.unsplash.com/photo-1547592180-85f173990554"
+    },
+    {
+        "id": 6,
+        "name": "Margherita Pizza",
+        "category": "Pizza",
+        "price": 420,
+        "spicy": false,
+        "description": "Classic pizza with tomato, mozzarella and fresh basil.",
+        "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498"
+    },
+    {
+        "id": 7,
+        "name": "Chicken Burger",
+        "category": "Burgers",
+        "price": 390,
+        "spicy": false,
+        "description": "Crispy chicken burger with fresh vegetables.",
+        "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086"
+    },
+    {
+        "id": 8,
+        "name": "Fresh Mango Juice",
+        "category": "Drinks",
+        "price": 150,
+        "spicy": false,
+        "description": "Freshly prepared Ethiopian mango juice.",
+        "image": "https://images.unsplash.com/photo-1546173159-315724a31696"
+    }
+]
